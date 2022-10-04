@@ -30,6 +30,6 @@ Parrafo de ejemplo  2
 
 [Sobre mí](about)
 
-## Lista
+
 
 

@@ -7,13 +7,10 @@
 
 #Despliega la página
 
-cd /home/usuario/jekyll_site/_site
+cd /home/usuario/jekyll-site/_site/
 
-git add *
+git add . && git commit -am "Actualización de la página" && git push origin main
 
-git commit -am "Actualización de la página"
-
-git push origin master
 
 #Fin del script
 
